@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi!
+Iam K
+I like Java and Python
